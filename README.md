@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/cicatriiz-cdisc-library-mcp-server-badge.png)](https://mseep.ai/app/cicatriiz-cdisc-library-mcp-server)
+
 ## CDISC Library MCP Server (DXT)
 
 This MCP server provides a compact, task‑oriented wrapper around the CDISC Library. It covers discovery (suggest + search), Biomedical Concepts (latest + versioned packages), and SDTM Dataset Specializations (latest + packages). Use it to search, fetch a concept or specialization with one call, then follow `_links` for deeper context. For reproducible results tied to an effective date, use package routes; for exploration, use latest routes.
